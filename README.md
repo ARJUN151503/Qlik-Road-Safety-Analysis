@@ -3,7 +3,7 @@
 ## Full Project:
 https://drive.google.com/drive/u/3/my-drive
 
-## google drive Preprocessed Dataset: 
+## Preprocessed Dataset From Qlik: 
 1. [Killed on Two Wheelers - Impacting Vehicles](https://8b7dp9a3sx4azyg.sg.qlikcloud.com/dataset/664c9345d7f9e62ecf907b46)
 2. [Pedestrians Killed - Impacting Vehicles](https://8b7dp9a3sx4azyg.sg.qlikcloud.com/dataset/664c9315d7f9e62ecf907aef)
 3. [Pedestrians Killed](https://8b7dp9a3sx4azyg.sg.qlikcloud.com/dataset/664c78992997ff1539d72ee9)
